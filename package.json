@@ -42,7 +42,7 @@
     "knex-postgis": "^0.8.1",
     "lodash": "^4.17.20",
     "log4js": "^4.5.1",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "nodemailer": "^6.4.17",
     "nodemailer-smtp-transport": "^2.7.2",
     "passport": "^0.4.1",
