@@ -37,7 +37,7 @@
     "glob": "^7.1.6",
     "handlebars": "^4.7.6",
     "inflection": "^1.10.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "knex": "~0.14.0",
     "knex-postgis": "^0.8.1",
     "lodash": "^4.17.20",
