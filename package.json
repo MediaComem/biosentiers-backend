@@ -38,7 +38,7 @@
     "handlebars": "^4.7.6",
     "inflection": "^1.10.0",
     "jsonwebtoken": "^8.5.1",
-    "knex": "~0.14.0",
+    "knex": "~2.4.0",
     "knex-postgis": "^0.8.1",
     "lodash": "^4.17.20",
     "log4js": "^4.5.1",
